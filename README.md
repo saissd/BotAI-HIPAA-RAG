@@ -57,7 +57,7 @@ Showed potential of RAG + fine-tuning for domain adaptation
 
 Highlighted challenges in empathy, medical safety, and multilingual handling
 
-⚠️ Disclaimer
+Disclaimer
 
 This project is for research and educational purposes only.
 It is not a certified medical product and should not be used for real patient care.
