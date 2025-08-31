@@ -28,7 +28,7 @@ NLP_Milestone3_part2.ipynb → RAG pipeline integration, evaluation, and results
 (Optional) requirements.txt → Python dependencies for reproducibility
 Quickstart
 1. Clone Repository
-git clone https://github.com/your-username/healthcare-chatbot-nlp.git
+git clone https://github.com/saissd/BotAI-HIPAA-RAG
 cd healthcare-chatbot-nlp
 
 2. Install Dependencies
